@@ -1,6 +1,0 @@
-Kpa=7.3
-
-motor_nominal_voltage=24
-R = 10
-L = 350e-6
-J = 500e-9
